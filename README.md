@@ -6,3 +6,6 @@ My work will be based upon the [YFM2 by El Yeti.](https://yeti-lab.blogspot.com/
 ## Requirements
 - Arduino 
 - ATTiny85
+
+## Schema 
+![Schema](/schema/Schematic_pinpointer_2021-08-03.png)
