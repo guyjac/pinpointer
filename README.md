@@ -16,5 +16,5 @@ I will be programming the ATTiny85 using a C type language.
 ![Boardplan](https://github.com/guyjac/pinpointer/blob/38430c536a029aef38215f6f55225ebc7c36c66f/schema/PCB_PCB_YFM2%20Fork_2021-08-04.png)
 
 ## Schema 
-![Schema](schema/PCB_PCB_YFM2 Fork copy_2021-08-04.png)
+![Schema](https://github.com/guyjac/pinpointer/blob/74905ce2ba1dc997e540a60a31a311d1c59d6d57/schema/PCB_PCB_YFM2%20Fork%20copy_2021-08-04.png)
 
