@@ -10,7 +10,7 @@ I will be programming the ATTiny85 using a C type language.
 - ATTiny85
 
 ## Board plan
-![Board plan](schema/PCB_PCB_YFM2 Fork_2021-08-04 (3).png)
+![Boardplan](/schema/PCB_PCB_YFM2 Fork_2021-08-04.png)
 
 ## Schema 
 ![Schema](/schema/Schematic_pinpointer_2021-08-03.png)
