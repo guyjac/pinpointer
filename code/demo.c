@@ -1,4 +1,4 @@
-////////// CODE debuted on 11/5/2020 /////////
+////////// CODE debuted on 11/5/2020 by El-Yeti /////////
 // Last update 12/12/2020 Reduced consumption
 // Works with arduino and with attiny85 at 16 / 20MHZ with crystal and with the ATTinyCore device manager from https://github.com/SpenceKonde/ATTinyCore
 // YFM Pinpointer 2-tone metal detector
