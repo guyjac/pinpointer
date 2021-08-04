@@ -13,8 +13,8 @@ I will be programming the ATTiny85 using a C type language.
 - All parts on the current project should be SMD/SMT (printed by the manufacturer) 
 
 ## Board plan
-![Boardplan](https://github.com/guyjac/pinpointer/blob/38430c536a029aef38215f6f55225ebc7c36c66f/schema/PCB_PCB_YFM2%20Fork_2021-08-04.png)
+![Boardplan](https://github.com/guyjac/pinpointer/blob/74905ce2ba1dc997e540a60a31a311d1c59d6d57/schema/PCB_PCB_YFM2%20Fork%20copy_2021-08-04.png)
 
 ## Schema 
-![Schema](https://github.com/guyjac/pinpointer/blob/74905ce2ba1dc997e540a60a31a311d1c59d6d57/schema/PCB_PCB_YFM2%20Fork%20copy_2021-08-04.png)
+![Schema](https://github.com/guyjac/pinpointer/blob/5d96d0a7f7e4f18b1925f8f4c4481e3ffe02917e/schema/Schematic_pinpointer_2021-08-03.png)
 
